@@ -6,6 +6,8 @@ Also, my coding style oddly changed as well. I started to focus on the code's op
 
 Anyways, I felt like I made great progress concerning coding in general.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 *Disclaimer: -*
 
 This is what my university's professors and lab instructors have taught us at the American University of Sharjah (AUS).
